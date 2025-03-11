@@ -1,4 +1,4 @@
 # Practical Assignment
 
 * **Author:** Tingjun Yuan, Cheng Yang, Yi Yang
-* **Topic:** Identifying Hidden Bias in Datasets
+* **Topic:** Option 2: Save the Planet "one piece at a time"
